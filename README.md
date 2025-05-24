@@ -1,1 +1,0 @@
-# JAVA_RUSH_PYTHON
